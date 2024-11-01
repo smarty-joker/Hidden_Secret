@@ -5,6 +5,8 @@ import argparse
 import random
 import math
 
+# flag -> 78 82 70 50 52 123 70 97 107 51 95 70 108 97 71 71 33 125
+
 char_map = [
         ['A', 'a', '4', '@'],
         ['B', 'b', '8'],
